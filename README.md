@@ -1,4 +1,4 @@
 # mycode
 This is my first Git reposotory.
 <br>
-Author- Dhiraj nimburkar
+Author- Dhiraj nimburkar(mycode)
